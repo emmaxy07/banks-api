@@ -1,0 +1,323 @@
+[
+  {
+    "id": 0,
+    "name": "Access Bank",
+    "slug": "access-bank",
+    "code": "044",
+    "ussd": "*901#",
+    "logo": "https://nigerianbanks.xyz/logo/access-bank.png"
+  },
+  {
+    "id": 1,
+    "name": "Access Bank (Diamond)",
+    "slug": "access-bank-diamond",
+    "code": "063",
+    "ussd": "*426#",
+    "logo": "https://nigerianbanks.xyz/logo/access-bank-diamond.png"
+  },
+  {
+    "id": 2,
+    "name": "ALAT by WEMA",
+    "slug": "alat-by-wema",
+    "code": "035A",
+    "ussd": "*945*100#",
+    "logo": "https://nigerianbanks.xyz/logo/alat-by-wema.png"
+  },
+  {
+    "id": 3,
+    "name": "ASO Savings and Loans",
+    "slug": "asosavings",
+    "code": "401",
+    "ussd": "",
+    "logo": "https://nigerianbanks.xyz/logo/asosavings.png"
+  },
+  {
+    "id": 4,
+    "name": "Bowen Microfinance Bank",
+    "slug": "bowen-microfinance-bank",
+    "code": "50931",
+    "ussd": "",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 5,
+    "name": "CEMCS Microfinance Bank",
+    "slug": "cemcs-microfinance-bank",
+    "code": "50823",
+    "ussd": "",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 6,
+    "name": "Citibank Nigeria",
+    "slug": "citibank-nigeria",
+    "code": "023",
+    "ussd": "",
+    "logo": "https://nigerianbanks.xyz/logo/citibank-nigeria.png"
+  },
+  {
+    "id": 7,
+    "name": "Ecobank Nigeria",
+    "slug": "ecobank-nigeria",
+    "code": "050",
+    "ussd": "*326#",
+    "logo": "https://nigerianbanks.xyz/logo/ecobank-nigeria.png"
+  },
+  {
+    "id": 8,
+    "name": "Ekondo Microfinance Bank",
+    "slug": "ekondo-microfinance-bank",
+    "code": "562",
+    "ussd": "*540*178#",
+    "logo": "https://nigerianbanks.xyz/logo/ekondo-microfinance-bank.png"
+  },
+  {
+    "id": 9,
+    "name": "Fidelity Bank",
+    "slug": "fidelity-bank",
+    "code": "070",
+    "ussd": "*770#",
+    "logo": "https://nigerianbanks.xyz/logo/fidelity-bank.png"
+  },
+  {
+    "id": 10,
+    "name": "First Bank of Nigeria",
+    "slug": "first-bank-of-nigeria",
+    "code": "011",
+    "ussd": "*894#",
+    "logo": "https://nigerianbanks.xyz/logo/first-bank-of-nigeria.png"
+  },
+  {
+    "id": 11,
+    "name": "First City Monument Bank",
+    "slug": "first-city-monument-bank",
+    "code": "214",
+    "ussd": "*329#",
+    "logo": "https://nigerianbanks.xyz/logo/first-city-monument-bank.png"
+  },
+  {
+    "id": 12,
+    "name": "Globus Bank",
+    "slug": "globus-bank",
+    "code": "00103",
+    "ussd": "*989#",
+    "logo": "https://nigerianbanks.xyz/logo/globus-bank.png"
+  },
+  {
+    "id": 13,
+    "name": "Guaranty Trust Bank",
+    "slug": "guaranty-trust-bank",
+    "code": "058",
+    "ussd": "*737#",
+    "logo": "https://nigerianbanks.xyz/logo/guaranty-trust-bank.png"
+  },
+  {
+    "id": 14,
+    "name": "Hasal Microfinance Bank",
+    "slug": "hasal-microfinance-bank",
+    "code": "50383",
+    "ussd": "*322*127#",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 15,
+    "name": "Heritage Bank",
+    "slug": "heritage-bank",
+    "code": "030",
+    "ussd": "*322#",
+    "logo": "https://nigerianbanks.xyz/logo/heritage-bank.png"
+  },
+  {
+    "id": 16,
+    "name": "Jaiz Bank",
+    "slug": "jaiz-bank",
+    "code": "301",
+    "ussd": "*389*301#",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 17,
+    "name": "Keystone Bank",
+    "slug": "keystone-bank",
+    "code": "082",
+    "ussd": "*7111#",
+    "logo": "https://nigerianbanks.xyz/logo/keystone-bank.png"
+  },
+  {
+    "id": 18,
+    "name": "Kuda Bank",
+    "slug": "kuda-bank",
+    "code": "50211",
+    "ussd": "",
+    "logo": "https://nigerianbanks.xyz/logo/kuda-bank.png"
+  },
+  {
+    "id": 19,
+    "name": "One Finance",
+    "slug": "one-finance",
+    "code": "565",
+    "ussd": "*1303#",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 20,
+    "name": "Paga",
+    "slug": "paga",
+    "code": "327",
+    "ussd": "",
+    "logo": "https://nigerianbanks.xyz/logo/paga.png"
+  },
+  {
+    "id": 21,
+    "name": "Parallex Bank",
+    "slug": "parallex-bank",
+    "code": "526",
+    "ussd": "*322*318*0#",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 22,
+    "name": "PayCom",
+    "slug": "paycom",
+    "code": "100004",
+    "ussd": "*955#",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 23,
+    "name": "Polaris Bank",
+    "slug": "polaris-bank",
+    "code": "076",
+    "ussd": "*833#",
+    "logo": "https://nigerianbanks.xyz/logo/polaris-bank.png"
+  },
+  {
+    "id": 24,
+    "name": "Providus Bank",
+    "slug": "providus-bank",
+    "code": "101",
+    "ussd": "",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 25,
+    "name": "Rubies MFB",
+    "slug": "rubies-mfb",
+    "code": "125",
+    "ussd": "*7797#",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 26,
+    "name": "Sparkle Microfinance Bank",
+    "slug": "sparkle-microfinance-bank",
+    "code": "51310",
+    "ussd": "",
+    "logo": "https://nigerianbanks.xyz/logo/sparkle-microfinance-bank.png"
+  },
+  {
+    "id": 27,
+    "name": "Stanbic IBTC Bank",
+    "slug": "stanbic-ibtc-bank",
+    "code": "221",
+    "ussd": "*909#",
+    "logo": "https://nigerianbanks.xyz/logo/stanbic-ibtc-bank.png"
+  },
+  {
+    "id": 28,
+    "name": "Standard Chartered Bank",
+    "slug": "standard-chartered-bank",
+    "code": "068",
+    "ussd": "",
+    "logo": "https://nigerianbanks.xyz/logo/standard-chartered-bank.png"
+  },
+  {
+    "id": 29,
+    "name": "Sterling Bank",
+    "slug": "sterling-bank",
+    "code": "232",
+    "ussd": "*822#",
+    "logo": "https://nigerianbanks.xyz/logo/sterling-bank.png"
+  },
+  {
+    "id": 30,
+    "name": "Suntrust Bank",
+    "slug": "suntrust-bank",
+    "code": "100",
+    "ussd": "*5230#",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 31,
+    "name": "TAJ Bank",
+    "slug": "taj-bank",
+    "code": "302",
+    "ussd": "*898#",
+    "logo": "https://nigerianbanks.xyz/logo/taj-bank.png"
+  },
+  {
+    "id": 32,
+    "name": "TCF MFB",
+    "slug": "tcf-mfb",
+    "code": "51211",
+    "ussd": "*908#",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 33,
+    "name": "Titan Trust Bank",
+    "slug": "titan-trust-bank",
+    "code": "102",
+    "ussd": "*922#",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 34,
+    "name": "Union Bank of Nigeria",
+    "slug": "union-bank-of-nigeria",
+    "code": "032",
+    "ussd": "*826#",
+    "logo": "https://nigerianbanks.xyz/logo/union-bank-of-nigeria.png"
+  },
+  {
+    "id": 35,
+    "name": "United Bank For Africa",
+    "slug": "united-bank-for-africa",
+    "code": "033",
+    "ussd": "*919#",
+    "logo": "https://nigerianbanks.xyz/logo/united-bank-for-africa.png"
+  },
+  {
+    "id": 36,
+    "name": "Unity Bank",
+    "slug": "unity-bank",
+    "code": "215",
+    "ussd": "*7799#",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 37,
+    "name": "VFD",
+    "slug": "vfd",
+    "code": "566",
+    "ussd": "",
+    "logo": "https://nigerianbanks.xyz/logo/default-image.png"
+  },
+  {
+    "id": 38,
+    "name": "Wema Bank",
+    "slug": "wema-bank",
+    "code": "035",
+    "ussd": "*945#",
+    "logo": "https://nigerianbanks.xyz/logo/wema-bank.png"
+  },
+  {
+    "id": 39,
+    "name": "Zenith Bank",
+    "slug": "zenith-bank",
+    "code": "057",
+    "ussd": "*966#",
+    "logo": "https://nigerianbanks.xyz/logo/zenith-bank.png"
+  },
+  { "id": 40, "name": "Kayvee MFB", "slug": "kayvee-mfb", "code": "60602" }
+]
