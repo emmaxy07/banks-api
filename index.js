@@ -106,6 +106,9 @@ app.route("/api/v1/banks").get(getAllBanks).post(createBank);
 
 app.route("/api/v1/banks/:id").get(getBank).patch(updateBank).delete(deleteBank);
 
+app.route("/api/v1/users").get(getAllUsers).post(createUser);
+
+app.route("/api/v1/users/:id").get(getUser).patch(updateUser).delete(deleteUser);
 
 const port = 8000;
 app.listen(port, () => {
