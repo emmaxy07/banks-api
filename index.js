@@ -1,6 +1,7 @@
 const fs = require("fs");
 const express = require("express");
 const morgan = require("morgan");
+const exp = require("constants");
 
 const app = express();
 
@@ -130,20 +131,21 @@ const deleteUser = (req, res) => {
     })
 }
 
-// app.get('/api/v1/banks', getAllBanks);
-// app.get('/api/v1/banks/:id', getBank);
-// app.post("/api/v1/banks", createBank);
-// app.patch("/api/v1/banks/:id", updateBank);
-// app.delete("/api/v1/banks/:id", deleteBank);
+
+const bankRouter = express.Router();
+const userRouter = express.Router();
+
+app.use("/api/v1/banks", bankRouter);
+app.use("/api/v1/users", userRouter);
 
 
-app.route("/api/v1/banks").get(getAllBanks).post(createBank);
+bankRouter.route("/").get(getAllBanks).post(createBank);
 
-app.route("/api/v1/banks/:id").get(getBank).patch(updateBank).delete(deleteBank);
+bankRouter.route("/:id").get(getBank).patch(updateBank).delete(deleteBank);
 
-app.route("/api/v1/users").get(getAllUsers).post(createUser);
+userRouter.route("/").get(getAllUsers).post(createUser);
 
-app.route("/api/v1/users/:id").get(getUser).patch(updateUser).delete(deleteUser);
+userRouter.route("/:id").get(getUser).patch(updateUser).delete(deleteUser);
 
 const port = 8000;
 app.listen(port, () => {
